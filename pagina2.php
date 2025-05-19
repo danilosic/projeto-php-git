@@ -1,7 +1,7 @@
 <?php
 
 $nome = $_POST["nome"];
-echo "Bem-vindo: ".$nome."<br>";
+echo "Usuário logado: ".$nome."<br>";
 echo date("d/m/Y");
 
 ?>
